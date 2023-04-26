@@ -1,4 +1,16 @@
-# Tourify
-Hybrid (IOS & Android) Application
+# tourify
 
-The system proposed here will help the user to find the famous places by selecting the provinces, and with the help of Google map, the location of each famous places can be viewed on a map along with the images and description and also find out the nearby restaurants with the help of Google map. This is android based APP is beneficial for the tourist who does not aware of places.
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
